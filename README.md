@@ -1,7 +1,7 @@
 # Curriculum Vitae Online
 Nesse projeto irei personalisar o meu cv com base o entendimento do Curso do Professor Falvojr. Dessa forma, será apresentado abaixo o perfil do GitHub desse: 
 
-[![Perfil](https://img.shields.io/badge/-Perfil-%23E4405F?style=for-the-badge)]([https://github.com/falvojr]) 
+[![Perfil](https://img.shields.io/badge/-Perfil-%23E4405F?style=for-the-badge)](https://github.com/falvojr) 
 
 com o template da DIO
 ## INFORMAÇÕES SOBRE O README DO PROJETO
