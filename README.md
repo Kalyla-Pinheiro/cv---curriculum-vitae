@@ -1,5 +1,6 @@
 # Curriculum Vitae Online
-
+Nesse projeto irei personalisar o emu cv com base o entendimento do Curso do Professor Falvojr https://github.com/falvojr com o template da DIO
+## INFORMAÇÕES SOBRE O README DO PROJETO
 Sejam todos bem vindos ao projeto de Curriculum Vitae Online oferecidos pela Digital Innovation One.
 
 O projeto tem como objetivo montar nossa primeira página web que será a replica de um CV Online, utilizando conceitos de html e Github Pages. Ao  fim teremos nosso currículo pronto e disponível de forma estática.
