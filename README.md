@@ -3,7 +3,10 @@ Nesse projeto irei personalisar o meu cv com base o entendimento do Curso do Pro
 
 [![Perfil](https://img.shields.io/badge/-Perfil-%23E4405F?style=for-the-badge)](https://github.com/falvojr) 
 
-com o template da DIO
+com o template da DIO, o qual foi realizado o Fork.
+[![Perfil](https://img.shields.io/badge/-Perfil-%23E4405F?style=for-the-badge)](https://github.com/falvojr) 
+[![Fork](https://img.shields.io/badge/-Perfil-%23E4405F?style=for-the-badge)](https://github.com/digitalinnovationone/cv) 
+
 ## INFORMAÇÕES SOBRE O README DO PROJETO
 Sejam todos bem vindos ao projeto de Curriculum Vitae Online oferecidos pela Digital Innovation One.
 
