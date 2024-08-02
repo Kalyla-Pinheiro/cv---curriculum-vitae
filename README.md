@@ -1,5 +1,5 @@
 # Curriculum Vitae Online
-Nesse projeto irei personalisar o meu cv com base o entendimento do Curso do Professor Falvojr. Dessa forma, será apresentado abaixo o perfil do GitHub desse, com o template da DIO, o qual foi realizado o Fork.: 
+Nesse projeto irei personalisar o meu cv com base o entendimento do Curso do Professor Falvojr. Dessa forma, será apresentado abaixo o perfil do GitHub desse, com o da DIO e o template dessa, o qual foi realizado o Fork.: 
 
 [![Perfil](https://img.shields.io/badge/-Perfil-%23E4405F?style=for-the-badge)](https://github.com/falvojr)
 [![DIO](https://img.shields.io/badge/-DIO-000080?style=for-the-badge)](https://github.com/digitalinnovationone) 
